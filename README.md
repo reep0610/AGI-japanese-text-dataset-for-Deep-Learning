@@ -24,8 +24,8 @@ I provide a video explaining the content and usage of this training dataset.
 Note: All videos contain the same content.
 
 ・ニコニコ動画→https://www.nicovideo.jp/watch/sm45073344 （2025年6月10日に公開）
-・YouTube（日本語）→https://youtu.be/QsjZTIGvjAE （2025年6月16日に公開）
-・YouTube（English）→https://youtu.be/RqG7BZ1q240 （2025年6月16日に公開）
+・YouTube（日本語）→https://youtu.be/H1p8dp5fjkM（2025年6月16日に公開）
+・YouTube（English）→https://youtu.be/3hI4_Rj1hXk（2025年6月16日に公開）
 
 --------------------------------------------------------------------------------------------------------------------------------
 
