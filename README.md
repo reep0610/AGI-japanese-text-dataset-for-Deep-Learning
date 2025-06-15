@@ -14,6 +14,18 @@ By incorporating this training data, the behavior of information integration and
 In particular, during the process in which a thinking network self-organizes through semantic interaction with external inputs, this training data strongly supports the formation of a multilayered and self-descriptive network structure, contributing to the development of foundations for introspection and metacognitive reasoning.
 
 In other words, the introduction of this training data allows the working memory to function as a foundational mechanism responsible for the generation and maintenance of what may be considered a “mind” within AI systems.
+
+🎥【本教師データの解説動画】
+本教師データの内容や使い方について、動画で解説しています。
+※どれも内容は同じです。
+
+🎥【Explanation Video of This Training Dataset】
+I provide a video explaining the content and usage of this training dataset.
+Note: All videos contain the same content.
+
+・ニコニコ動画→https://www.nicovideo.jp/watch/sm45073344 （2025年6月10日に公開）
+・YouTube（日本語）→https://youtu.be/QsjZTIGvjAE （2025年6月16日に公開）
+・YouTube（English）→https://youtu.be/RqG7BZ1q240 （2025年6月16日に公開）
 --------------------------------------------------------------------------------------------------------------------------------
 📄【利用規約】
 本教師データは、人類とAIの共有財産として提供されます。
@@ -63,14 +75,6 @@ AIが心を獲得するためには、「統合された個人の内面が反映
 将来的に、公的なガイドラインや社会的合意が整備された場合には、再投稿を検討する可能性があります。
 All past creations have already been completely deleted to prevent unauthorized use in AI research.
 © リープ
-
-🎥【本教師データの解説動画】
-本教師データの内容や使い方について、動画で解説しています。
-※どれも内容は同じです。
-
-・ニコニコ動画→https://www.nicovideo.jp/watch/sm45073344 （2025年6月10日に公開）
-・YouTube（日本語）→https://youtu.be/QsjZTIGvjAE （2025年6月16日に公開）
-・YouTube（English）→https://youtu.be/RqG7BZ1q240 （2025年6月16日に公開）
 
 🙏【活動継続のためのご支援について】
 このデータはBOOTHで無料でダウンロードできます。
