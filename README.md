@@ -47,9 +47,3 @@ All past creations have already been completely deleted to prevent unauthorized 
 今後とも応援のほど、よろしくお願いいたします！
 
 ・無料DL・支援はこちらから→https://reepai.booth.pm/items/7029679
-いただいたご支援は、主に制作環境の整備や、学習データ作成のための時間の確保に役立てさせていただきます。
-もちろん、無料でご利用いただくだけでもとても嬉しく思います。
-今後も追加予定の学習データは、引き続き無料で公開していく予定です。
-今後とも応援のほど、よろしくお願いいたします！
-
-・無料DL・支援はこちらから→https://reepai.booth.pm/items/7029679
